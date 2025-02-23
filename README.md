@@ -36,7 +36,7 @@ The site uses **HTML**, **CSS**, and **JavaScript** to showcase some basic infor
 ## Docker / Docker Compose
 Alternatively, you can run this project directly using Docker:  
 ```bash
-docker run -d -p 8080:80 stensel8student/web-dev:latest
+docker run -d -p 8080:80 stensel8/web-dev:latest
 ```
 
 Docker Compose is also supported:  
